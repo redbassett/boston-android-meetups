@@ -1,6 +1,6 @@
 # Boston Android Meetups
 
-(In alphabetical order.)
+This is a list of Boston-metro Android and Android-related meetups, groups, and events. Please feel free to open a PR with suggestions for additions or changes!
 
 ## GDG Boston Android
 <https://www.meetup.com/boston-android/>
